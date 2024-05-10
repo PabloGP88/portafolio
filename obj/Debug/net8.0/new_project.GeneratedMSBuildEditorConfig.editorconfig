@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = new_project
+build_property.RootNamespace = new_project
+build_property.ProjectDir = C:\Users\jpabl\Documents\net\mvc_project\portafolio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jpabl\Documents\net\mvc_project\portafolio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXENvbnRhY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXEdyYWNpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/Proyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXFByb3llY3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/_habilidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXF9oYWJpbGlkYWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/_listadoProyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXF9saXN0YWRvUHJveWVjdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/_presentacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXF9wcmVzZW50YWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Home/_seccionProyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xIb21lXF9zZWNjaW9uUHJveWVjdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Portafolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UG9ydGFmb2xpb1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-89v6s1snz6
+
+[C:/Users/jpabl/Documents/net/mvc_project/portafolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z1xyg27hi3

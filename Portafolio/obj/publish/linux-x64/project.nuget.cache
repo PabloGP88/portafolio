@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFighWvMqsGzZDqYn4AolGQA1YcsqulRKZJ+XKiMtqNnBwxnugrbsgLnaDXuxi8/Oemfxt9OGmSb4iAZAJY5lA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jpabl\\Documents\\net\\mvc_project\\Portafolio\\Portafolio\\Portafolio.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Host.linux-x64. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.linux-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
